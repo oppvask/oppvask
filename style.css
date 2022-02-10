@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 * {
-font-family: 'Open Sans', sans-serif;
+font-family: 'oswald', sans-serif;
 }
 
 .text {
    text-align: center;
    padding-top 200px;
    font-weight:border; 
-    }
+}
